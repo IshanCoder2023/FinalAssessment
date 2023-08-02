@@ -8,11 +8,10 @@ The solidity code pasted below contains three public variables and two functions
 
 ### Executing program
 
-1. Copy the code below
-2. paste it in RemixIDE
-3. Compile it
-4. deploye it
-5. voila!
+1. Copy and paste code in remixIDE
+2. Compile it
+3. deploye it
+4. voila!
 
 ```
 // SPDX-License-Identifier: MIT
